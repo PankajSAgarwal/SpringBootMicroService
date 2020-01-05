@@ -1,0 +1,5 @@
+package com.pankaj.microservices.limitsservice;
+
+public class Configuration {
+
+}

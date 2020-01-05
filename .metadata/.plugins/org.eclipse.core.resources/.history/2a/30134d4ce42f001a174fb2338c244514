@@ -1,0 +1,5 @@
+package com.pankaj.microservices.currencyexchangeservice;
+
+public class ExchangeValueRepository {
+
+}

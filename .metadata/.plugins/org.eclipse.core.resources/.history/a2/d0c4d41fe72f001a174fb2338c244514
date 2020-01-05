@@ -1,0 +1,7 @@
+package com.pankaj.microservices.currencyconversionservice;
+
+public class CurrencyConversionBean {
+	
+	
+
+}
