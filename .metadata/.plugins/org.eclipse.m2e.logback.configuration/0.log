@@ -1873,3 +1873,130 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-01-06 11:43:59,922 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-01-06 11:43:59,931 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-06 11:43:59,931 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-06 12:02:50,268 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:netflix-eureka-naming-server:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/netflix-eureka-naming-server/pom.xml.
+2020-01-06 12:02:51,833 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-server-2.1.4.RELEASE.pom
+2020-01-06 12:02:52,067 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-server-2.1.4.RELEASE.pom
+2020-01-06 12:02:52,313 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-netflix-eureka-server-2.1.4.RELEASE.pom
+2020-01-06 12:02:52,546 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-netflix-eureka-server-2.1.4.RELEASE.pom
+2020-01-06 12:02:52,894 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.1.11.RELEASE/spring-boot-starter-freemarker-2.1.11.RELEASE.pom
+2020-01-06 12:02:53,125 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.1.11.RELEASE/spring-boot-starter-freemarker-2.1.11.RELEASE.pom
+2020-01-06 12:02:53,367 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.1.12.RELEASE/spring-context-support-5.1.12.RELEASE.pom
+2020-01-06 12:02:53,600 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.1.12.RELEASE/spring-context-support-5.1.12.RELEASE.pom
+2020-01-06 12:02:53,827 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.4.RELEASE/spring-cloud-netflix-hystrix-2.1.4.RELEASE.pom
+2020-01-06 12:02:54,166 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.4.RELEASE/spring-cloud-netflix-hystrix-2.1.4.RELEASE.pom
+2020-01-06 12:02:54,404 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-netflix-eureka-client-2.1.4.RELEASE.pom
+2020-01-06 12:02:54,632 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-netflix-eureka-client-2.1.4.RELEASE.pom
+2020-01-06 12:02:55,252 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.9.10/jackson-dataformat-xml-2.9.10.pom
+2020-01-06 12:02:55,484 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.9.10/jackson-dataformat-xml-2.9.10.pom
+2020-01-06 12:02:55,714 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.10/jackson-module-jaxb-annotations-2.9.10.pom
+2020-01-06 12:02:55,944 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.10/jackson-module-jaxb-annotations-2.9.10.pom
+2020-01-06 12:02:56,171 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.9.10/jackson-modules-base-2.9.10.pom
+2020-01-06 12:02:56,403 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.9.10/jackson-modules-base-2.9.10.pom
+2020-01-06 12:02:56,810 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-server-2.1.4.RELEASE.jar
+2020-01-06 12:02:57,062 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-server-2.1.4.RELEASE.jar
+2020-01-06 12:02:57,285 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-netflix-eureka-server-2.1.4.RELEASE.jar
+2020-01-06 12:02:58,675 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.4.RELEASE/spring-cloud-netflix-eureka-server-2.1.4.RELEASE.jar
+2020-01-06 12:02:58,899 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.1.11.RELEASE/spring-boot-starter-freemarker-2.1.11.RELEASE.jar
+2020-01-06 12:02:59,133 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.1.11.RELEASE/spring-boot-starter-freemarker-2.1.11.RELEASE.jar
+2020-01-06 12:02:59,358 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.1.12.RELEASE/spring-context-support-5.1.12.RELEASE.jar
+2020-01-06 12:02:59,633 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.1.12.RELEASE/spring-context-support-5.1.12.RELEASE.jar
+2020-01-06 12:02:59,857 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.4.RELEASE/spring-cloud-netflix-hystrix-2.1.4.RELEASE.jar
+2020-01-06 12:03:00,091 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.4.RELEASE/spring-cloud-netflix-hystrix-2.1.4.RELEASE.jar
+2020-01-06 12:03:00,315 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-netflix-eureka-client-2.1.4.RELEASE.jar
+2020-01-06 12:03:00,568 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-netflix-eureka-client-2.1.4.RELEASE.jar
+2020-01-06 12:03:00,794 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.9.10/jackson-dataformat-xml-2.9.10.jar
+2020-01-06 12:03:01,051 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.9.10/jackson-dataformat-xml-2.9.10.jar
+2020-01-06 12:03:01,277 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.10/jackson-module-jaxb-annotations-2.9.10.jar
+2020-01-06 12:03:01,507 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.10/jackson-module-jaxb-annotations-2.9.10.jar
+2020-01-06 12:03:01,720 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /netflix-eureka-naming-server/src/main/java
+2020-01-06 12:03:01,720 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /netflix-eureka-naming-server/src/main/resources
+2020-01-06 12:03:01,723 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /netflix-eureka-naming-server/src/main/resources
+2020-01-06 12:03:01,726 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /netflix-eureka-naming-server/src/test/java
+2020-01-06 12:03:01,987 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2020-01-06 12:03:03,466 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:03:03,468 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:03:03,469 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:03:03,471 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:03:03,471 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/netflix-eureka-naming-server/src/test/resources
+2020-01-06 12:04:24,792 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:04:24,793 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:04:24,794 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:04:24,797 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:04:24,797 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/netflix-eureka-naming-server/src/test/resources
+2020-01-06 12:11:41,591 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:11:41,592 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:11:41,593 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:11:41,596 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:11:41,596 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/netflix-eureka-naming-server/src/test/resources
+2020-01-06 12:17:20,053 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:currency-conversion-service:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/pom.xml.
+2020-01-06 12:17:21,796 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.4.RELEASE.pom
+2020-01-06 12:17:22,025 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.4.RELEASE.pom
+2020-01-06 12:17:22,423 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.4.RELEASE.jar
+2020-01-06 12:17:22,650 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.4.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.4.RELEASE.jar
+2020-01-06 12:17:22,822 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:17:22,823 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:17:22,823 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:17:22,824 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:17:22,824 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-06 12:17:25,028 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:17:25,029 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:17:25,034 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:17:25,035 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:17:25,036 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-06 12:18:31,781 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:18:31,782 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:18:31,784 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:18:31,785 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:18:31,785 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-06 12:24:19,697 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:24:19,699 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:24:19,703 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:24:19,713 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:24:19,713 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-06 12:28:53,197 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:currency-exchange-service:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/pom.xml.
+2020-01-06 12:28:54,153 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:28:54,154 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:28:54,155 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:28:54,159 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:28:54,159 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-06 12:28:56,885 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:28:56,887 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:28:56,889 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:28:56,950 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:28:56,951 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-06 12:29:31,716 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:29:31,717 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:29:31,718 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:29:31,720 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:29:31,720 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-06 12:31:32,846 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:31:32,846 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:31:32,848 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:31:32,850 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:31:32,850 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-06 12:35:33,374 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:35:33,374 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:35:33,375 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:35:33,378 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:35:33,379 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/limits-service/src/test/resources
+2020-01-06 12:36:30,350 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:limits-service:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/limits-service/pom.xml.
+2020-01-06 12:36:31,159 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:36:31,159 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:36:31,159 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:36:31,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:36:31,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/limits-service/src/test/resources
+2020-01-06 12:36:32,729 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:36:32,730 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:36:32,730 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:36:32,733 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:36:32,733 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/limits-service/src/test/resources
+2020-01-06 12:36:50,490 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:36:50,491 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:36:50,491 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:36:50,492 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:36:50,493 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/limits-service/src/test/resources
+2020-01-06 12:44:39,974 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:44:39,975 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-06 12:44:39,975 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-06 12:44:39,978 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-06 12:44:39,978 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
