@@ -2,8 +2,10 @@ package com.pankaj.microservices.currencyconversionservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
+@EnableFeignClients("com.pankaj.microservices.currencyconversionservice")
 public class CurrencyConversionServiceApplication {
 
 	public static void main(String[] args) {
