@@ -2103,3 +2103,150 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-01-07 11:46:00,231 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-01-07 11:46:00,234 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-07 11:46:00,234 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-07 12:16:49,608 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:netflix-zuul-api-gateway-server:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/netflix-zuul-api-gateway-server/pom.xml.
+2020-01-07 12:16:51,476 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.RELEASE/spring-cloud-starter-sleuth-2.1.6.RELEASE.pom
+2020-01-07 12:16:51,743 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.RELEASE/spring-cloud-starter-sleuth-2.1.6.RELEASE.pom
+2020-01-07 12:16:51,998 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth/2.1.6.RELEASE/spring-cloud-sleuth-2.1.6.RELEASE.pom
+2020-01-07 12:16:52,333 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth/2.1.6.RELEASE/spring-cloud-sleuth-2.1.6.RELEASE.pom
+2020-01-07 12:16:52,589 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.8.0/brave-bom-5.8.0.pom
+2020-01-07 12:16:52,843 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/5.8.0/brave-bom-5.8.0.pom
+2020-01-07 12:16:53,143 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/2.10.3/zipkin-reporter-bom-2.10.3.pom
+2020-01-07 12:16:53,450 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/2.10.3/zipkin-reporter-bom-2.10.3.pom
+2020-01-07 12:16:53,730 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-core/2.1.6.RELEASE/spring-cloud-sleuth-core-2.1.6.RELEASE.pom
+2020-01-07 12:16:53,989 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-core/2.1.6.RELEASE/spring-cloud-sleuth-core-2.1.6.RELEASE.pom
+2020-01-07 12:16:54,248 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.pom
+2020-01-07 12:16:54,509 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.pom
+2020-01-07 12:16:54,812 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave/5.8.0/brave-5.8.0.pom
+2020-01-07 12:16:55,078 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave/5.8.0/brave-5.8.0.pom
+2020-01-07 12:16:55,333 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-parent/5.8.0/brave-parent-5.8.0.pom
+2020-01-07 12:16:55,840 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-parent/5.8.0/brave-parent-5.8.0.pom
+2020-01-07 12:16:56,096 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/zipkin2/zipkin/2.17.0/zipkin-2.17.0.pom
+2020-01-07 12:16:56,355 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/zipkin2/zipkin/2.17.0/zipkin-2.17.0.pom
+2020-01-07 12:16:56,608 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/zipkin-parent/2.17.0/zipkin-parent-2.17.0.pom
+2020-01-07 12:16:56,868 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/zipkin-parent/2.17.0/zipkin-parent-2.17.0.pom
+2020-01-07 12:16:57,121 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.10.3/zipkin-reporter-2.10.3.pom
+2020-01-07 12:16:57,468 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.10.3/zipkin-reporter-2.10.3.pom
+2020-01-07 12:16:57,731 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.10.3/zipkin-reporter-parent-2.10.3.pom
+2020-01-07 12:16:57,993 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.10.3/zipkin-reporter-parent-2.10.3.pom
+2020-01-07 12:16:58,247 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-context-log4j2/5.8.0/brave-context-log4j2-5.8.0.pom
+2020-01-07 12:16:58,505 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-context-log4j2/5.8.0/brave-context-log4j2-5.8.0.pom
+2020-01-07 12:16:58,757 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-context-parent/5.8.0/brave-context-parent-5.8.0.pom
+2020-01-07 12:16:59,015 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-context-parent/5.8.0/brave-context-parent-5.8.0.pom
+2020-01-07 12:16:59,268 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-rpc/5.8.0/brave-instrumentation-rpc-5.8.0.pom
+2020-01-07 12:16:59,525 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-rpc/5.8.0/brave-instrumentation-rpc-5.8.0.pom
+2020-01-07 12:16:59,777 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-parent/5.8.0/brave-instrumentation-parent-5.8.0.pom
+2020-01-07 12:17:00,036 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-parent/5.8.0/brave-instrumentation-parent-5.8.0.pom
+2020-01-07 12:17:00,290 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-web/5.8.0/brave-instrumentation-spring-web-5.8.0.pom
+2020-01-07 12:17:00,548 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-web/5.8.0/brave-instrumentation-spring-web-5.8.0.pom
+2020-01-07 12:17:00,801 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-http/5.8.0/brave-instrumentation-http-5.8.0.pom
+2020-01-07 12:17:01,060 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-http/5.8.0/brave-instrumentation-http-5.8.0.pom
+2020-01-07 12:17:01,314 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-rabbit/5.8.0/brave-instrumentation-spring-rabbit-5.8.0.pom
+2020-01-07 12:17:01,701 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-rabbit/5.8.0/brave-instrumentation-spring-rabbit-5.8.0.pom
+2020-01-07 12:17:01,955 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-kafka-clients/5.8.0/brave-instrumentation-kafka-clients-5.8.0.pom
+2020-01-07 12:17:02,214 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-kafka-clients/5.8.0/brave-instrumentation-kafka-clients-5.8.0.pom
+2020-01-07 12:17:02,468 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpclient/5.8.0/brave-instrumentation-httpclient-5.8.0.pom
+2020-01-07 12:17:02,723 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpclient/5.8.0/brave-instrumentation-httpclient-5.8.0.pom
+2020-01-07 12:17:02,977 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpasyncclient/5.8.0/brave-instrumentation-httpasyncclient-5.8.0.pom
+2020-01-07 12:17:03,232 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpasyncclient/5.8.0/brave-instrumentation-httpasyncclient-5.8.0.pom
+2020-01-07 12:17:03,486 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-webmvc/5.8.0/brave-instrumentation-spring-webmvc-5.8.0.pom
+2020-01-07 12:17:03,743 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-webmvc/5.8.0/brave-instrumentation-spring-webmvc-5.8.0.pom
+2020-01-07 12:17:03,998 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-servlet/5.8.0/brave-instrumentation-servlet-5.8.0.pom
+2020-01-07 12:17:04,251 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-servlet/5.8.0/brave-instrumentation-servlet-5.8.0.pom
+2020-01-07 12:17:04,504 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-jms/5.8.0/brave-instrumentation-jms-5.8.0.pom
+2020-01-07 12:17:04,759 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-jms/5.8.0/brave-instrumentation-jms-5.8.0.pom
+2020-01-07 12:17:05,118 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.RELEASE/spring-cloud-starter-sleuth-2.1.6.RELEASE.jar
+2020-01-07 12:17:05,371 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.RELEASE/spring-cloud-starter-sleuth-2.1.6.RELEASE.jar
+2020-01-07 12:17:05,623 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-core/2.1.6.RELEASE/spring-cloud-sleuth-core-2.1.6.RELEASE.jar
+2020-01-07 12:17:06,632 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-core/2.1.6.RELEASE/spring-cloud-sleuth-core-2.1.6.RELEASE.jar
+2020-01-07 12:17:06,883 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.jar
+2020-01-07 12:17:07,144 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.jar
+2020-01-07 12:17:07,395 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave/5.8.0/brave-5.8.0.jar
+2020-01-07 12:17:07,659 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave/5.8.0/brave-5.8.0.jar
+2020-01-07 12:17:07,911 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/zipkin2/zipkin/2.17.0/zipkin-2.17.0.jar
+2020-01-07 12:17:08,175 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/zipkin2/zipkin/2.17.0/zipkin-2.17.0.jar
+2020-01-07 12:17:08,426 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.10.3/zipkin-reporter-2.10.3.jar
+2020-01-07 12:17:08,681 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.10.3/zipkin-reporter-2.10.3.jar
+2020-01-07 12:17:08,931 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-context-log4j2/5.8.0/brave-context-log4j2-5.8.0.jar
+2020-01-07 12:17:09,186 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-context-log4j2/5.8.0/brave-context-log4j2-5.8.0.jar
+2020-01-07 12:17:09,437 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-rpc/5.8.0/brave-instrumentation-rpc-5.8.0.jar
+2020-01-07 12:17:09,690 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-rpc/5.8.0/brave-instrumentation-rpc-5.8.0.jar
+2020-01-07 12:17:09,942 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-web/5.8.0/brave-instrumentation-spring-web-5.8.0.jar
+2020-01-07 12:17:10,197 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-web/5.8.0/brave-instrumentation-spring-web-5.8.0.jar
+2020-01-07 12:17:10,446 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-http/5.8.0/brave-instrumentation-http-5.8.0.jar
+2020-01-07 12:17:10,703 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-http/5.8.0/brave-instrumentation-http-5.8.0.jar
+2020-01-07 12:17:10,954 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-rabbit/5.8.0/brave-instrumentation-spring-rabbit-5.8.0.jar
+2020-01-07 12:17:11,209 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-rabbit/5.8.0/brave-instrumentation-spring-rabbit-5.8.0.jar
+2020-01-07 12:17:11,460 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-kafka-clients/5.8.0/brave-instrumentation-kafka-clients-5.8.0.jar
+2020-01-07 12:17:11,714 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-kafka-clients/5.8.0/brave-instrumentation-kafka-clients-5.8.0.jar
+2020-01-07 12:17:11,964 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpclient/5.8.0/brave-instrumentation-httpclient-5.8.0.jar
+2020-01-07 12:17:12,219 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpclient/5.8.0/brave-instrumentation-httpclient-5.8.0.jar
+2020-01-07 12:17:12,470 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpasyncclient/5.8.0/brave-instrumentation-httpasyncclient-5.8.0.jar
+2020-01-07 12:17:12,725 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-httpasyncclient/5.8.0/brave-instrumentation-httpasyncclient-5.8.0.jar
+2020-01-07 12:17:12,977 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-webmvc/5.8.0/brave-instrumentation-spring-webmvc-5.8.0.jar
+2020-01-07 12:17:13,232 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-spring-webmvc/5.8.0/brave-instrumentation-spring-webmvc-5.8.0.jar
+2020-01-07 12:17:13,482 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-servlet/5.8.0/brave-instrumentation-servlet-5.8.0.jar
+2020-01-07 12:17:13,737 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-servlet/5.8.0/brave-instrumentation-servlet-5.8.0.jar
+2020-01-07 12:17:13,991 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-jms/5.8.0/brave-instrumentation-jms-5.8.0.jar
+2020-01-07 12:17:14,248 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-instrumentation-jms/5.8.0/brave-instrumentation-jms-5.8.0.jar
+2020-01-07 12:17:14,668 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:17:14,668 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:17:14,668 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:17:14,670 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:17:14,670 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/netflix-zuul-api-gateway-server/src/test/resources
+2020-01-07 12:17:16,799 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:17:16,799 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:17:16,800 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:17:16,802 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:17:16,804 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/netflix-zuul-api-gateway-server/src/test/resources
+2020-01-07 12:20:17,124 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:20:17,126 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:20:17,127 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:20:17,128 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:20:17,128 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/netflix-zuul-api-gateway-server/src/test/resources
+2020-01-07 12:21:22,704 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:currency-conversion-service:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/pom.xml.
+2020-01-07 12:21:23,404 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:23,404 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:21:23,404 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:21:23,407 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:23,407 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-07 12:21:24,976 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:24,976 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:21:24,979 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:21:24,980 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:24,980 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-07 12:21:47,487 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pankaj.microservices:currency-exchange-service:0.0.1-SNAPSHOT @ /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/pom.xml.
+2020-01-07 12:21:48,229 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:48,229 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:21:48,231 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:21:48,234 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:48,234 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-07 12:21:50,226 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:50,227 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:21:50,228 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:21:50,248 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:21:50,248 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-07 12:22:49,212 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:22:49,213 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:22:49,214 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:22:49,218 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:22:49,218 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-07 12:23:02,453 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:23:02,453 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:23:02,454 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:23:02,455 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:23:02,455 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-07 12:25:50,263 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:25:50,264 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:25:50,264 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:25:50,265 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:25:50,265 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-exchange-service/src/test/resources
+2020-01-07 12:26:58,159 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:26:58,160 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:26:58,161 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:26:58,162 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:26:58,162 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
+2020-01-07 12:39:30,778 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:39:30,779 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-07 12:39:30,780 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-07 12:39:30,781 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-07 12:39:30,781 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pankajagarwal/projects/MicroServices/currency-conversion-service/src/test/resources
