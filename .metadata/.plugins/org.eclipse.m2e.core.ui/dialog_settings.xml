@@ -14,6 +14,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/pankajagarwal/projects/MicroServices/netflix-zuul-api-gateway-server"/>
 			<item value="/Users/pankajagarwal/projects/MicroServices/netflix-eureka-naming-server"/>
 			<item value="/Users/pankajagarwal/projects/MicroServices/currency-conversion-service"/>
 			<item value="/Users/pankajagarwal/projects/MicroServices/currency-exchange-service"/>
